@@ -1,0 +1,7 @@
+logging setup at:23:03:26
+popcorn type text file created succesfully at:23:03:26
+popcorn quantity text file created succesfully at:23:03:26
+popcorn quantity text file created succesfully at:23:03:26
+sales text file created succesfully at:23:03:26
+account set up sucessfuly at:23:03:26
+ check [Account.txt] for cridentals. 
